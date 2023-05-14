@@ -2,12 +2,12 @@
 
 This is a collection of programs that have been found to work on the kaluga dev kit version 1.3 to demonstrate the included HW.
 
-#Done
+# Done
 * Camera
 * LCD
 * WIFI
 
-#ToDo
+# ToDo
 ## Scripts
 * Speaker
 * Headphone
