@@ -31,7 +31,7 @@ This is a collection of programs that have been found to work on the kaluga dev 
 1. Open Mu
 1. Click Serial
 1. CTRL-C
-1. enter import espcamera and verify no errors
+1. Enter import espcamera and verify no errors
 
 # ToDo
 ## Scripts
