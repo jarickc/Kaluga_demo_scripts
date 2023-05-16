@@ -46,8 +46,8 @@ This is a collection of programs that have been found to work on the kaluga dev 
 * Sensor addon guide
 * Challenge point scoring
 
-## Done
+# Done
 * Camera
 * LCD
 * WIFI
-* Setup
+* Setup (readme)
